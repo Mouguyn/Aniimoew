@@ -30,7 +30,7 @@ function Contact() {
           </h2>
         </a>
 
-        <a href="#" className="contact instagram">
+        <a href="https://www.instagram.com/tieubao_1602/" className="contact instagram">
           <AiOutlineInstagram className="icon" />
           <h2>
             instagram <span>Don't tell me for precius</span>
