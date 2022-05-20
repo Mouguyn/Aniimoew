@@ -44,7 +44,7 @@ const Qualifications = () => {
           <a href="https://www.facebook.com/qnmeeowwwz"><h1>Quyeen Meozw</h1></a>
         </div>
         <div className="qualification">
-          <div className="content kotlin"></div>
+          <div className="content kotlin3"></div>
           <a href="#"><h1></h1>???</a>
         </div>
       </div>
