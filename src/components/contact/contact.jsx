@@ -9,7 +9,7 @@ function Contact() {
       <h1>Contact Me</h1>
       <div className="contact-links">
         <a
-          href="https://www.facebook.com/giaz.baor/"
+          href="https://www.facebook.com/mou.guyn/"
           className="contact youtube"
           target={"blank"}
         >
@@ -30,7 +30,7 @@ function Contact() {
           </h2>
         </a>
 
-        <a href="https://www.instagram.com/mou.guyn_62//" className="contact instagram">
+        <a href="https://www.instagram.com/mou.guyn_62/" className="contact instagram">
           <AiOutlineInstagram className="icon" />
           <h2>
             instagram <span>Don't tell me for precius</span>
