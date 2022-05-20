@@ -45,7 +45,11 @@ const Qualifications = () => {
         </div>
         <div className="qualification">
           <div className="content kotlin3"></div>
-          <a href="#"><h1></h1>???</a>
+          <a href="https://www.facebook.com/caryln.fer"><h1></h1>Lena Hoschek</a>
+        </div>
+        <div className="qualification">
+          <div className="content kotlin4"></div>
+          <a href="https://www.facebook.com/profile.php?id=100055931196883"><h1></h1>Văn Dương</a>
         </div>
       </div>
     </div>
