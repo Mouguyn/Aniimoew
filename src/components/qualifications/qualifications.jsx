@@ -33,15 +33,15 @@ const Qualifications = () => {
         </div>
         <div className="qualification">
           <div className="content c-sharp"></div>
-          <a href="https://www.facebook.com/aduuuuyeuHuuTrongvloz"><h1></h1>LeeMin Nhi</a>
+          <a href="https://www.facebook.com/aduuuuyeuHuuTrongvloz"><h1>LeeMin Nhi</h1></a>
         </div>
         <div className="qualification">
           <div className="content kotlin"></div>
-          <a href="https://www.facebook.com/jhenhodi"><h1></h1>Hong Vy</a>
+          <a href="https://www.facebook.com/jhenhodi"><h1>Hong Vy</h1></a>
         </div>
         <div className="qualification">
-          <div className="content kotlin"></div>
-          <a href="https://www.facebook.com/qnmeeowwwz"><h1></h1>Quyeen Meozw/a>
+          <div className="content kotlin2"></div>
+          <a href="https://www.facebook.com/qnmeeowwwz"><h1>Quyeen Meozw</h1></a>
         </div>
         <div className="qualification">
           <div className="content kotlin"></div>
