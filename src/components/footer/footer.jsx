@@ -18,10 +18,10 @@ function Footer() {
         </a>
       </h1>
       <div className="social-links">
-        <a href="https://www.instagram.com/tieubao_1602/">
+        <a href="https://www.instagram.com/mou.guyn_62/">
           <BsInstagram className="social" />
         </a>
-        <a href="https://www.facebook.com/giaz.baor/">
+        <a href="https://www.facebook.com/mou.guyn/">
           {" "}
           <FaFacebookF className="social" />
         </a>
