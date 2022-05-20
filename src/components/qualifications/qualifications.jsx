@@ -1,5 +1,5 @@
 import "./qualifications.css";
-
+ 
 const Qualifications = () => {
   return (
     <div>
