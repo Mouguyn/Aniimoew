@@ -50,6 +50,7 @@ const Qualifications = () => {
         <div className="qualification">
           <div className="content kotlin4"></div>
           <a href="https://www.facebook.com/profile.php?id=100055931196883"><h1></h1>Văn Dương</a>
+         <qualification images={props} speed={122200} />
         </div>
       </div>
     </div>
